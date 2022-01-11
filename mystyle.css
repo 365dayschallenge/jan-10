@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Luxurious+Roman&family=Open+Sans:wght@300&display=swap');
+html{
+    font-size: 10px;
+}
+body{
+    font-size: 1.7rem;
+    background-image: url("https://images.unsplash.com/photo-1523257459668-56bc6b368630?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.poem{
+    justify-content: center;
+    font-family: 'Luxurious Roman', cursive ,'Open Sans', sans-serif;
+    
+}
